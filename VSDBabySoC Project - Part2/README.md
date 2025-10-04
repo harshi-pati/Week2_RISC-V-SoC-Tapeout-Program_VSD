@@ -214,6 +214,8 @@ gtkwave post_synth_sim.vcd
 <img width="1280" height="800" alt="Image" src="https://github.com/user-attachments/assets/1597e729-534c-4287-a506-04018b5d1679" />
 <img width="1280" height="800" alt="Image" src="https://github.com/user-attachments/assets/da4fc344-18e4-4823-980b-a21e1e6eea8f" />
 
+---
+
 **Post-Synthesis:**
 
 <img width="1280" height="800" alt="Image" src="https://github.com/user-attachments/assets/d14e383b-ef18-44c0-b2a2-8473eddcc77e" />
